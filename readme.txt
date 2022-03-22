@@ -1,0 +1,1 @@
+Tool này dùng để lấy tất cả các incedent của pagerduty. Sau đó lọc ra và chuyển trạng thái sang đã xử lý
